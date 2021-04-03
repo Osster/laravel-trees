@@ -10,8 +10,8 @@
   ],
   "require": {
     "php": "^7.4|^8.0",
-    "illuminate/database": "^7.30",
-    "illuminate/events": "^7.30",
+    "illuminate/database": "^7.30||^8.0",
+    "illuminate/events": "^7.30||^8.0",
     "efureev/support": "^3.0"
   },
   "require-dev": {
